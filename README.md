@@ -6,4 +6,4 @@ This repository is built step by step in the tutorial.
 
 Edit
 2
-on s2
+on s3
